@@ -1,0 +1,12 @@
+Name: Rainbell Uniforme Lugos
+Course: Bachelor of Science in Computer Science
+Section: BSCS 2E
+Birthday: November 30, 2001
+Birthplace: San Felipe Padre Garcia Batangas
+Age: 22
+Sex: Female
+Contact number: 0997-067-0788
+Address: 168 Purok 3, Brgy. Tipacan Lipa City Batangas
+Mother's Maiden Name: Mylene Lindog Uniforme
+Father's Name: Oscar Aranda Lugos
+Guardian: Jhello Martinez Gono
